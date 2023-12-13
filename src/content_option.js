@@ -148,7 +148,7 @@ const skills = [
 // ];
 
 const contactConfig = {
-  YOUR_EMAIL: "test@test.com",
+  YOUR_EMAIL: "kareem20sabra@gmail.com",
   description: "Looking forward to hearing from you!",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
